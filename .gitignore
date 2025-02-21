@@ -1,0 +1,7 @@
+# Ignorar archivos de .NET
+bin/
+obj/
+.vscode/
+node_modules/
+appsettings.json
+appsettings.Development.json
